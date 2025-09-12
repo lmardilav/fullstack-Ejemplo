@@ -1,2 +1,4 @@
+import resta from "./resta.js";
+
 console.log("Hello, World!");
-console.log("cambio 2");
+console.log(resta(5, 10));
